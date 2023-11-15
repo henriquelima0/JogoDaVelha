@@ -1,0 +1,14 @@
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\jogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\jogoDaVelha.AssemblyInfoInputs.cache
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\jogoDaVelha.AssemblyInfo.cs
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\jogoDaVelha.csproj.CoreCompileInputs.cache
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\bin\Debug\net6.0\jogoDaVelha.exe
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\bin\Debug\net6.0\jogoDaVelha.deps.json
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\bin\Debug\net6.0\jogoDaVelha.runtimeconfig.json
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\bin\Debug\net6.0\jogoDaVelha.dll
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\bin\Debug\net6.0\jogoDaVelha.pdb
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\jogoDaVelha.dll
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\refint\jogoDaVelha.dll
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\jogoDaVelha.pdb
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\jogoDaVelha.genruntimeconfig.cache
+D:\projetosVisualStudio\jogoDaVelha\jogoDaVelha\obj\Debug\net6.0\ref\jogoDaVelha.dll
